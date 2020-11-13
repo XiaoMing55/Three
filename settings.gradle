@@ -1,0 +1,3 @@
+include ':MyThreeCache'
+include ':app'
+rootProject.name = "Three"
